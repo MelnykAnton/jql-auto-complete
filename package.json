@@ -1,5 +1,5 @@
 {
-  "name": "jql-autocomplete",
+  "name": "jql-autocomplete-1",
   "version": "1.0.0",
   "description": "Jira JQL autocomplete component based on the Atlaskit",
   "dependencies": {
