@@ -42,7 +42,7 @@
   },
   "main": "src/JQLAutocompleteInput.jsx",
   "scripts": {
-    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "build": "webpack",
     "test": "jest",
     "test:watch": "jest --watch"
   },
@@ -52,9 +52,10 @@
     "Jira JQL autocomplete",
     "JQL"
   ],
-  "author": "Deviniti",
+  "author": "anton",
   "license": "Apache-2.0",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "repository": "https://github.com/MelnykAnton/jql-auto-complete"
 }
